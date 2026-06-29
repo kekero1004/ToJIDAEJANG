@@ -1,0 +1,17 @@
+[general]
+name=VWorld Land Information Tool
+qgisMinimumVersion=3.36
+description=브이월드 API를 활용한 토지정보 조회 플러그인 - 연속지적도, 토지임야정보, 토지특성정보, 개별공시지가, 토지이용계획, 건축물대장, 지형분석, 가로경관, AI규제분석, 기반비용산출, 경사도등급, 주변정보버퍼, 구역계 설정/편집(필지선택·영역그리기·파일/주소 업로드), 레이어 관리(WMS·범례편집·DXF/SHP 내보내기·지도캡처), 단면분석, 개발가능지 분석, 토지형상 판정, 허용용도분석, 정비사업·소규모정비 요건검토, 사업비분석, 개발용량(건폐율·용적률)분석, 접도·맹지분석, 필지 분할 시뮬레이션
+version=1.6.0
+author=QGIS Developer
+email=kekero1004
+about=이 플러그인은 브이월드(VWorld) API를 활용하여 QGIS 맵 캔버스에서 선택한 폴리곤 영역의 토지 관련 정보를 종합적으로 조회합니다. 연속지적도, 토지임야정보, 토지특성정보, 개별공시지가, 토지이용계획, 토지이동이력 등의 정보를 트리 구조와 대시보드 형태로 시각화하며, 엑셀 및 워드 형식으로 보고서 내보내기를 지원합니다.
+tracker=https://github.com/kekero1004/ToJIDAEJANG/issues
+repository=https://github.com/kekero1004/ToJIDAEJANG
+tags=vworld,land,cadastral,korea,토지,지적도,공시지가,건축물대장,지형분석,가로경관,AI분석,구역계,단면분석,개발가능지,토지형상,허용용도,정비사업,사업비분석,개발용량,건폐율,용적률,접도,맹지,필지분할,WMS
+homepage=https://github.com/kekero1004/ToJIDAEJANG
+category=Web
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=no
