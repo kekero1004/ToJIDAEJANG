@@ -177,8 +177,6 @@ qgis_vworld_land_info/
 └── README.md                  # 사용 설명서
 ```
 
-※ 전체 기능 명세( 매뉴얼 29페이지 분석·구현범위)는 저장소 루트의 `기능명세서.md` 참조.
-
 ## 브이월드 API 참조
 
 - 브이월드 2D API: https://www.vworld.kr/dev/v4dv_opn2dmap2guide_s001.do
